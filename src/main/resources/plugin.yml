@@ -1,0 +1,11 @@
+name: SPChipSystem
+version: '${project.version}'
+main: com.splocus.spchipsystem.SPChipSystem
+api-version: 1.18
+authors: [ ZoomDK ]
+description: Chip System til Splocus Prisons Kasino
+commands:
+  chip:
+    aliases:
+      - chips
+      - kasino
